@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|catsmile   | Thomas Jr   | https://catsmile.cloud/  | https://x.com/catsmileproject  |  Germany | catsmile100  | catsmile91@gmail.com  | th3mi   | https://testnet.itrocket.net/atomone/tx/29F3C99A50EF0177013F461EAE6A540052F97482202DD57183DABE969FE4F15C
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
